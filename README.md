@@ -1,4 +1,6 @@
 # Website for informing road traffic participants
+All commits have been lost because the original repository was deleted.
+
 This project was done as a part of Project-R course at the Faculty of electrical engineering and computing, academic year 2022/23, in collaboration with colleagues Karlo Žižić and Valentino Janda. 
 
 ## Task
