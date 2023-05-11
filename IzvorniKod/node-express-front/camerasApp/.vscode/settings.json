@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/37f21b51-1ca8-4298-a3cb-969187fe10e0/AppServices/subscriptions/37f21b51-1ca8-4298-a3cb-969187fe10e0/resourceGroups/camerasApp/providers/Microsoft.Web/sites/camerasApp",
+  "appService.deploySubpath": "."
+}
