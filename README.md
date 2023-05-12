@@ -9,7 +9,7 @@ Create a web portal of incoming traffic information that is displayed in real ti
 In our project we chose to implement display of live images from traffic cameras.
 
 ## Architecture
-Frontend part was done using Leaflet with some changes to HTML and CSS.  
+Frontend part was done using Leaflet Javascript library. 
 
 The web application backend consists of two parts: 
 - Node.js server responsible for fetching data from the Tomcat server and displaying data on the map
